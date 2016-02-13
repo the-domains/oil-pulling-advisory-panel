@@ -1,0 +1,28 @@
+name: Oil Pulling Advisory Panel
+favicon: null
+layout_spectrum: 0.8532086117193103
+typography_spectrum: 0.4690930761862546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8407686152495444
+  lightness: 0.3250603436026722
+  saturation: 0.018961318070068955
+  rhythmicContrast: 0.3898740930017084
+purpose: []
