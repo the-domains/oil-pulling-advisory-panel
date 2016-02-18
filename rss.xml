@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Oil Pulling Advisory Panel is a collaboration of healthcare professionals dedicated to reversing the trend towards deteriorating oral health]]></title>
         <description><![CDATA[The Oil Pulling Advisory Panel is a collaboration of healthcare professionals dedicated to reversing the trend towards deteriorating oral health]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oil-pulling-advisory-panel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 12:57:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 13:04:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oil-pulling-advisory-panel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The researchers collected dental plaque from 22 healthy mouths for microscopic consideration. The scrapings were coated with probe molecules in a range of colours, each set of probes able to single out a group of bacteria. In total they were able to colour 96 per cent of the present bacteria.</p>]]></description>
+            <link>https://thegrid.ai/oil-pulling-advisory-panel/a02f74bc-1795-4df0-8bc2-e477ef7b4c8f/index.html</link>
+            <guid isPermaLink="false">a02f74bc-1795-4df0-8bc2-e477ef7b4c8f</guid>
+            <pubDate>Thu, 18 Feb 2016 13:03:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>“There is quite a lot of literature coming out about how oral diseases relate to systemic diseases,” reports Dr Susan Cartwright. “The associations between heart disease, diabetes and so on have highlighted these sorts of issues. Then there is the fact that some lifestyle diseases are connected to sugar, and of course tooth decay is connected to sugar. There are common risk factors for some systemic diseases that also apply to oral disease.”</p>]]></description>
-            <link>undefined44bc6954-f1c2-4576-a8a0-635819eb9175/index.html</link>
+            <link>https://thegrid.ai/oil-pulling-advisory-panel/44bc6954-f1c2-4576-a8a0-635819eb9175/index.html</link>
             <guid isPermaLink="false">44bc6954-f1c2-4576-a8a0-635819eb9175</guid>
             <pubDate>Thu, 18 Feb 2016 12:57:06 GMT</pubDate>
         </item>
